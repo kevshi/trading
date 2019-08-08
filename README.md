@@ -1,1 +1,1 @@
-# trading
+Passion project in progress.
